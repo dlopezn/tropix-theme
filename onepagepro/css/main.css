@@ -1,0 +1,41 @@
+.current-menu-item  {
+    margin-bottom: 50vh !important;
+    transition: margin-bottom 0.8s ease-in-out;
+    will-change: margin-bottom;
+}
+
+.onepagepro-header-side-nav-background {
+    position: fixed;
+    height: 100%;
+}
+
+.onepagepro-header-wrap {
+    height: 100%;
+}
+
+.onepagepro-navigation {
+    position: relative;
+    bottom: 0;
+    height: 100%;
+}
+
+#menu-corporate-menu-1 .menu-item {
+    transition: margin-bottom 0.8s ease-in-out;
+    will-change: margin-bottom;
+}
+
+#menu-corporate-menu-1 {
+    height: 100%;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.gdlr-core-pbf-wrapper {
+    padding: 115px 0px !important;
+}
+
+
+.gdlr-core-skin-title{
+    font-size: 34px !important;
+}
